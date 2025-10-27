@@ -3,21 +3,7 @@ title: Markdown 語法
 tags: [onboarding]
 
 ---
-
-# 加入學習 Markdown 的行列吧！
-如果您是 Markdown 的新手，而且剛開始探索 Markdown 的功能，本指南就是為您而寫。您將在此學習基本知識，從簡單的文字格式到建立清單等等。到最後，您將掌握所需的技巧，輕鬆寫出乾淨且有條理的文件。
-
-Markdown 語法將寫在 `程式碼區塊` 中，以下展示一些常用的語法範例，讓我們開始吧！
-
-# 指南概覽
-- [Markdown 語法](#Markdown-語法)
-- [文字格式](#文字格式)
-- [表格](#表格)
-- [筆記目錄](#筆記目錄)
-- [切換編輯頁／檢視頁](#切換編輯頁／檢視頁)
-- [瞭解更多HackMD使用方法](#瞭解更多HackMD使用方法)
-
-## Markdown 語法
+# Markdown 語法
 
 ### 無序清單
 語法: `- 無序清單`
@@ -156,8 +142,6 @@ This is what it looks like after rendering :point_down:
   # in this code block.
 ```
 
-## 我們重視您的回饋！
-您覺得這篇指南有幫助嗎？ 歡迎填寫 [調查問卷](https://tally.so/r/wzQ6gZ) 告訴我們您的想法。
 
 ## 表格
 在編輯器的工具列就有插入表格的工具
