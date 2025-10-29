@@ -144,7 +144,7 @@ This is what it looks like after rendering :point_down:
 
 
 ## 表格
-在編輯器的工具列就有插入表格的工具
+在編輯器的工具列就有插入表格的工具(HackMD)
 
 ![image](https://hackmd.io/_uploads/SJss0x73R.png)
 
@@ -161,74 +161,6 @@ This is what it looks like after rendering :point_down:
 
 [ → 深入了解「如何建立表格」](https://hackmd.io/c/tutorials-tw/%2Fs%2Fhow-to-create-table-tw)
 
-### 直接貼上 Excel 表格
-您可以直接貼上 Excel 的表格，只要在工具列中啟用「智慧貼上」即可。
-
-![image](https://hackmd.io/_uploads/SJqAm2IUA.png)
-
-## 筆記目錄
-
-輸入 `[TOC]` 將會出現如下的目錄，這個語法只會讀取 H1 ,H2 ,H3：
-
-[toc]
-
-如果你不想要加入 ``[TOC]``，筆記本來就有內建目錄可以瀏覽，並能夠在筆記內快速移動 :point_down:
-
->[!note] :bulb: **雙欄模式的目錄**
->
->您可以透過點擊雙藍模式中間的 `☰` 按鈕來檢視筆記目錄。
->![imgage](https://hackmd.io/_uploads/B1nfZK9TC.png =400x)
-
-## 切換編輯頁面／檢視頁面
-
-#### 編輯頁面
-HackMD 編輯器的「編輯頁面」是您使用 Markdown 撰寫和套用格式的地方。
-![圖片](https://hackmd.io/_uploads/rkzJ-PCJJl.png)
-
-#### 檢視頁面
-HackMD 編輯器的「檢視頁面」會顯示您的筆記將如何呈現；顯示套用格式的文字，包括標題、連結和圖片。讓您得以確保內容在分享或發佈之前，完全按照您的想法顯示。
-您可以點選頁面右上角的 `編輯` 按鈕，隨時跳回編輯頁面。
-![圖片](https://hackmd.io/_uploads/r1dnewRJkx.png)
-
-## 瞭解更多HackMD使用方法
-想要學習更多使用 HackMD 的方法嗎？查看您工作空間中的新手指南和進階指南。
-
-### 新手指南將涵蓋
-- 工作空間及側邊欄
-- 個人工作空間
-- 建立筆記
-- 從範本建立筆記
-- 插入圖片或GIF
-- 留言和建議修訂
-- 分享與設定權限
-- 公開發表
-- 瞭解更多HackMD使用方法
-
-### 進階指南將涵蓋
-- 團隊空間
-- 與 GitHub 同步
-- 串連API
-- 書本模式
-- 範本和客製化範本
-- 嵌入筆記
-- 使用MathJax寫出方程式
-- 繪製UML流程圖
-- 官方教學手冊
-
-在您使用之前，HackMD 有一本官方的使用者手冊，裡面有所有功能的說明！
-
-在我們的教學手冊中，您可以找到 HackMD 所有主要功能的詳細指南，提升您的工作效率。
-
-### :point_right: [HackMD 教學手冊](https://hackmd.io/c/tutorials-tw/%2Fs%2Ftutorials-tw) :point_left:
-#### 不想錯過 HackMD 的最新消息、新功能預告嗎？快按讚FB粉絲專頁或加入DC群吧~
-
-- 客服信箱 :mailbox: support@hackmd.io
-- <i class="fa fa-file-text"></i> 在 [Twitter](https://twitter.com/hackmdio) 上面提及 `@hackmdio` 
-- <i class="fa fa-file-text"></i> [Facebook fanpage](https://www.facebook.com/hackmdio)
-- <i class="fa fa-file-text"></i> [Discord channel](https://discord.gg/rAkfPd5Z)
-
-## 我們重視您的回饋！
-您覺得這篇指南有幫助嗎？ 歡迎填寫 [調查問卷](https://tally.so/r/wzQ6gZ) 告訴我們您的想法。
 
 
-[^自動摺行]: 系統會將「超出文件寬度的程式碼區塊文字」自動換行，讓程式碼區塊的內容可以完整顯示，不需要滾動捲軸檢視。
+
